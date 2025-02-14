@@ -1,10 +1,7 @@
-# YOUR NAME
-# ITELEC2
-# Problem Set 01 - Problem 01
-# Simple Calculator Program
-
-def main():
-    pass # replace this line with all of your code
-
-if __name__ == "__main__":
-    main()
+Simple Calculator Program
+Enter 1st number: 8
+Enter 2nd number: 2
+The sum is 10
+The difference is 6
+The product is 16
+The quotient is 4.00
