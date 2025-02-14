@@ -1,7 +1,7 @@
-Simple Calculator Program
-Enter 1st number: 8
-Enter 2nd number: 2
-The sum is 10
-The difference is 6
-The product is 16
-The quotient is 4.00
+num1 = int(input("Enter 1st number: "))
+num2 = int(input("Enter 2nd number: "))
+
+print(f"The sum is {num1 + num2}")
+print(f"The difference is {num1 - num2}")
+print(f"The product is {num1 * num2}")
+print(f"The quotient is {(num1 / num2):.2f}")
