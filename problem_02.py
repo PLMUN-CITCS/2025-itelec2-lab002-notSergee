@@ -1,4 +1,4 @@
-# Yusingco, Serge Oland C
+# Serge Yusingco
 # ITELEC2
 # Problem Set 01 - Problem 02
 # Square the Number Program
